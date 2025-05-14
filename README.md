@@ -1,4 +1,6 @@
 # TypeScript Learning Roadmap
+![roadmap to learn typescript](https://github.com/bilouStrike/typescript-roadmap-2025/blob/main/typescript.png)
+
 
 This roadmap provides a structured journey to learning TypeScript. It's divided into two main milestones, each containing smaller units with specific learning goals and practical projects.
 
