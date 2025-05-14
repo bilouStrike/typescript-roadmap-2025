@@ -1,4 +1,7 @@
 # TypeScript Learning Roadmap
+
+[Start learn and track your progress](https://www.onepin.io/progress/A-visual-timeline-roadmap-to-master-TypeScirpt-%F0%9F%97%BA%EF%B8%8F-6824e0d2fc4e97f8af6c4e12)
+
 ![roadmap to learn typescript](https://github.com/bilouStrike/typescript-roadmap-2025/blob/main/typescript.png)
 
 
